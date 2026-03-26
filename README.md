@@ -12,16 +12,16 @@ WILL THE CUSTOMER ACCEPT THE COUPON?
 
 Exploratory data analysis project using Python, pandas, Matplotlib, and Seaborn to identify the factors that influence whether drivers accept or reject coupons. Includes statistical summaries, visualizations, key findings, and business recommendations based on UCI survey data.
 
-Project Overview
+Project Overview:
 This project investigates the question: Will a customer accept the coupon? Using survey data from the UCI Machine Learning Repository, I analyzed the differences between customers who accepted a driving coupon and those who rejected it. The notebook applies exploratory data analysis, plotting, statistical summarization, and data visualization to identify patterns in coupon acceptance and translate them into practical recommendations.
 
 This repository was created as Practical Application 1 for the coupon acceptance assignment.
 
-Business Question
+Business Question:
 Which customer and trip characteristics are associated with a higher likelihood of accepting a coupon?
 
 
-Dataset
+Dataset:
 The dataset comes from the UCI Machine Learning Repository and was collected through a survey on Amazon Mechanical Turk. Each observation describes a driving scenario, including variables such as:
 
 destination
@@ -69,7 +69,7 @@ Final cleaned dataset size: 12,079 rows
 This kept the analysis clean while preserving most of the observations.
 
 
-Analysis Approach
+Analysis Approach;
 The notebook follows this workflow:
 
 Load and inspect the data
@@ -119,7 +119,7 @@ Bar coupons work much better when the customer already behaves like a likely bar
 
 
 
-Coffee House coupon findings
+Coffee House coupon findings:
 For the independent investigation, I focused on Coffee House coupons.
 
 Overall Coffee House coupon acceptance rate: 49.63%
@@ -138,7 +138,7 @@ Coffee House coupon acceptance is strongly tied to existing coffee-shop habits, 
 
 
 
-Actionable Recommendations
+Actionable Recommendations:
 Target coupons based on existing habits.
 People who already visit bars or coffee houses frequently are far more likely to accept matching offers.
 
@@ -156,7 +156,7 @@ Matching coupon type to known customer behavior should increase acceptance rates
 
 
 
-Next Steps
+Next Steps:
 Build a predictive machine learning model for coupon acceptance
 Test which features contribute most to performance
 Compare acceptance drivers across all coupon categories
@@ -164,10 +164,10 @@ Evaluate whether targeted campaigns outperform untargeted campaigns
 
 
 
-Conclusion
+Conclusion:
 The analysis shows that customers are most likely to accept coupons when the offer matches both their existing habits and their current trip context. The strongest coupon strategies are behavior-based targeting for niche offers like Bar and Coffee House, while broader convenience-based offers can be distributed more widely.
 
-Author
+Author:
 Jabari Martin
 
 Source
