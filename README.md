@@ -167,6 +167,10 @@ Evaluate whether targeted campaigns outperform untargeted campaigns
 Conclusion:
 The analysis shows that customers are most likely to accept coupons when the offer matches both their existing habits and their current trip context. The strongest coupon strategies are behavior-based targeting for niche offers like Bar and Coffee House, while broader convenience-based offers can be distributed more widely.
 
+Drivers who accepted bar coupons were more likely to already have lifestyles and routines that aligned with going to bars. In particular, acceptance appears higher among people who visit bars more than once a month, are in more flexible social situations such as traveling with friends or partners rather than children, and are not constrained by urgent trip purposes. 
+
+Acceptance also seems higher among younger drivers and among drivers whose spending patterns suggest they are more responsive to lower-cost dining and promotional offers. Overall, I hypothesize that bar coupon acceptance is strongest when the offer matches both the driver’s usual habits and the immediate social and travel context.
+
 Author:
 Jabari Martin
 
